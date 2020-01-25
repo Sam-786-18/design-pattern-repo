@@ -1,0 +1,17 @@
+ServiceFactory has created the service obj
+Service class obj is gathered from ServiceFactory
+VO obj is converted to DTO obj
+DAOFactory has DAO obj
+jdbc.properties file content is loaded java.util.Properties class obj 
+convert DTO to BO object
+DTO obj is converted to BO object
+Connection established
+jdbc connection established
+Connection established
+jdbc connection established
+query execution (squence) failed
+ResultSet obj is closed
+PreparedStament obj is closed
+Connection obj is closed
+Query(Insert) Executed
+service used in Controller
